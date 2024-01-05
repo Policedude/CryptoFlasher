@@ -17,3 +17,5 @@ Contributions and feedback are welcome to enhance this educational tool further.
 
 Note:
 Use this tool responsibly and understand that the simulated data might not reflect real market behavior accurately.
+
+MAKE SURE TO TURN OFF DEFENDERS
